@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>#1  +1 houses</name>
+            <description>Buildings now (Overture): 17
+2018: 0.0  -&gt;  2023: 0.6
+Growth: 0.6 (999%)
+https://www.google.com/maps/@17.65122523811254,78.6097435506103,18z/data=!3m1!1e3</description>
+            <Point id="2">
+                <coordinates>78.6097435506103,17.65122523811254,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>#2  +0 houses</name>
+            <description>Buildings now (Overture): 17
+2018: 0.0  -&gt;  2023: 0.5
+Growth: 0.5 (999%)
+https://www.google.com/maps/@17.558160858021395,78.55451176587863,18z/data=!3m1!1e3</description>
+            <Point id="4">
+                <coordinates>78.55451176587863,17.558160858021395,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

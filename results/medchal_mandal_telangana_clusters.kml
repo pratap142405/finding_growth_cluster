@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>#1  +1 houses</name>
+            <description>Buildings now (Overture): 16
+2018: 0.6  -&gt;  2023: 1.5
+Growth: 0.9 (150%)
+https://www.google.com/maps/@17.636610809010946,78.49519036472506,18z/data=!3m1!1e3</description>
+            <Point id="2">
+                <coordinates>78.49519036472506,17.636610809010946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>#2  +1 houses</name>
+            <description>Buildings now (Overture): 16
+2018: 0.0  -&gt;  2023: 0.6
+Growth: 0.6 (999%)
+https://www.google.com/maps/@17.56927467587622,78.4713252190969,18z/data=!3m1!1e3</description>
+            <Point id="4">
+                <coordinates>78.4713252190969,17.56927467587622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>#3  +0 houses</name>
+            <description>Buildings now (Overture): 19
+2018: 0.0  -&gt;  2023: 0.5
+Growth: 0.5 (999%)
+https://www.google.com/maps/@17.642772229459048,78.47911695173552,18z/data=!3m1!1e3</description>
+            <Point id="6">
+                <coordinates>78.47911695173552,17.642772229459048,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>#4  +0 houses</name>
+            <description>Buildings now (Overture): 18
+2018: 0.0  -&gt;  2023: 0.5
+Growth: 0.5 (999%)
+https://www.google.com/maps/@17.597746000687444,78.44497764934795,18z/data=!3m1!1e3</description>
+            <Point id="8">
+                <coordinates>78.44497764934795,17.597746000687444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>#5  +0 houses</name>
+            <description>Buildings now (Overture): 19
+2018: 0.0  -&gt;  2023: 0.5
+Growth: 0.5 (999%)
+https://www.google.com/maps/@17.619111821027655,78.50288516172078,18z/data=!3m1!1e3</description>
+            <Point id="10">
+                <coordinates>78.50288516172078,17.619111821027655,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
